@@ -1,0 +1,11 @@
+# Site settings
+title: Sana Javed
+email: sanajaved7@gmail.com
+description: Sana Javed is a Software Developer Fellow at Code for Progress in Washington, D.C.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "sanajaved7.github.io" # the base hostname & protocol for your site
+twitter_username: sanajaved
+github_username:  sanajaved7
+
+# Build settings
+markdown: kramdown
